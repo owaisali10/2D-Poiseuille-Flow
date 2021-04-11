@@ -1,4 +1,4 @@
-%2D Posieuille Flow
+%2D Poiseuille Flow
 %clc
 clear all
 close all
